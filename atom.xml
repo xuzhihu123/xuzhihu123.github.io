@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog</title>
+  <title>zhihu xu&#39;s blog</title>
   
-  <subtitle>zhihu xu</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>Evolve</subtitle>
+  <link href="https://xuzhihu123.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://xuzhihu123.github.io/"/>
   <updated>2020-09-21T00:04:05.779Z</updated>
-  <id>http://example.com/</id>
+  <id>https://xuzhihu123.github.io/</id>
   
   <author>
     <name>Zhihu Xu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>2020/09/21</title>
-    <link href="http://example.com/2020/09/21/2020-09-21/"/>
-    <id>http://example.com/2020/09/21/2020-09-21/</id>
+    <link href="https://xuzhihu123.github.io/2020/09/21/2020-09-21/"/>
+    <id>https://xuzhihu123.github.io/2020/09/21/2020-09-21/</id>
     <published>2020-09-20T23:06:48.000Z</published>
     <updated>2020-09-21T00:04:05.779Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/09/20/hello-world/"/>
-    <id>http://example.com/2020/09/20/hello-world/</id>
+    <link href="https://xuzhihu123.github.io/2020/09/20/hello-world/"/>
+    <id>https://xuzhihu123.github.io/2020/09/20/hello-world/</id>
     <published>2020-09-20T14:36:40.075Z</published>
     <updated>2020-09-20T14:36:40.075Z</updated>
     
