@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xuzhihu123.github.io/2020/09/24/%E5%BA%B8%E6%89%8D/</loc>
+    
+    <lastmod>2020-09-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuzhihu123.github.io/2020/09/21/2020-09-21/</loc>
+    
+    <lastmod>2020-09-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xuzhihu123.github.io/2020/09/21/hello-world/</loc>
+    
+    <lastmod>2020-09-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xuzhihu123.github.io/link/index.html</loc>
     
     <lastmod>2020-09-22</lastmod>
@@ -29,29 +50,29 @@
     
   </url>
   
-  <url>
-    <loc>https://xuzhihu123.github.io/2020/09/21/2020-09-21/</loc>
-    
-    <lastmod>2020-09-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xuzhihu123.github.io/2020/09/20/hello-world/</loc>
-    
-    <lastmod>2020-09-20</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://xuzhihu123.github.io/</loc>
-    <lastmod>2020-09-22</lastmod>
+    <lastmod>2020-09-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>https://xuzhihu123.github.io/categories/mood/</loc>
+    <lastmod>2020-09-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xuzhihu123.github.io/categories/process/</loc>
+    <lastmod>2020-09-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
